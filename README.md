@@ -1,3 +1,3 @@
 # portfolio
-It ismy personal portfolio website
+It is my personal portfolio website
 my portfolio
